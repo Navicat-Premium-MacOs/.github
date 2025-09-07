@@ -43,20 +43,10 @@ Navicat Premium is a professional database management solution that lets you con
 
 ## System Requirements
 
-**Windows**
-- Windows 7/8/10/11  
-- 2 GHz processor or faster  
-- 2 GB RAM (4 GB recommended)  
-- 200 MB free disk space
-
 **macOS**
 - macOS 10.13 High Sierra or newer (Ventura & Sonoma supported)  
 - Intel or Apple Silicon (M1/M2/M3)  
 - 2 GB RAM minimum
-
-**Linux**
-- Major distributions (e.g., Ubuntu, Debian, Fedora)  
-- GTK+ 3.0 or higher
 
 ---
 

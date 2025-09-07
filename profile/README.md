@@ -1,7 +1,7 @@
 # Navicat Premium – Powerful Database Management Tool
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvdtf8RqCSDSvGs9NYMhLY3Psbd2qyx2jPEA&s alt="Navicat Premium Logo">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvdtf8RqCSDSvGs9NYMhLY3Psbd2qyx2jPEA&s" alt="Navicat Premium Logo">
 </div>
 
 <div align="center">
